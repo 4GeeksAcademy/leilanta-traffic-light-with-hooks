@@ -11,13 +11,14 @@
 
 */
 .light {
-    height:100px;
-    width: 100px;
+    height:80px;
+    width: 50px;
 }
 
 .red {
     background-color: red;
     border-radius: 50%;
+
 }
 .yellow {
     background-color: yellow;
@@ -29,11 +30,114 @@
 }
 
 .glow {
-    box-shadow: 0px 0px 49px 4px beige;
+    box-shadow: 0px 0px 49px 4px orange;
 }
 
 .trafficlight {
     border-radius: 10px;
-    width: 225px;
+    width: 22px;
     
 }
+
+a {
+    
+    text-decoration: none; /* Elimina el subrayado predeterminado del enlace */
+    outline: none; /* Elimina el contorno azul que aparece cuando se hace clic */
+}
+
+a.movable {
+    background-image: url("https://pyxis.nymag.com/v1/imgs/636/697/2d0774c1b52d1fb0fa5066a5bcf62ccd78-24-michael-fassbender-silo.rvertical.w330.png");
+    background-repeat: no-repeat;
+    background-position: 50%; 
+    background-size: 250px;
+    font-size: 550px;
+    position: absolute;
+    left: 810px;
+    top: 50px; /* Posición inicial en el eje Y */
+    animation: moveElement 15s infinite; /* Utiliza la animación 'moveElement' durante 2 segundos */
+   
+}
+  
+  @keyframes moveElement {
+    from {
+      top: 15%; /* Posición inicial en el eje Y */
+      left: 100%; /* Posición inicial en el eje X */
+    
+    }
+    to {
+      top: 15%; /* Nueva posición en el eje Y */
+      left: -100%; /* Nueva posición en el eje X */
+    
+    }
+    
+  }
+
+a.paused {
+    animation-play-state: paused; /* Detiene la animación */
+  }
+
+a.cheesy {
+    font-size: 400px;
+    position: relative; /* You can use other position values as needed */
+    top: -254px;
+    left: 700px; /* Adjust the left position */
+    z-index: -2;
+
+    
+}
+ 
+body {
+    background-image: url("https://a.travel-assets.com/findyours-php/viewfinder/images/res70/53000/53978-Lisbon.jpg");
+    background-size: cover;
+    background-attachment: fixed; 
+    background-position: center; 
+    overflow:hidden;
+    position: static;
+    z-index: -1;
+    
+}
+
+.cheesy {
+    height: 18%;
+    height: 18%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 10px;
+    border-radius: 5%;
+    top: 224px;
+    left: 810px;
+    z-index: -1;
+    
+}
+
+.smile {
+    height: 5%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 5%;
+    top: 317px;
+    left: 852px;
+    z-index: -1;
+    
+}
+
+.uwu {
+    background-image: url("https://png.pngtree.com/png-clipart/20220712/ourmid/pngtree-anime-character-blush-cartoon-png-image_5836883.png");
+    position: static;
+    z-index: 2;
+}
+
+
+.highway {
+    position: absolute;
+    width: 100%;
+    z-index: -3;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/023/652/055/original/empty-asphalt-road-with-two-sidewalks-in-isolated-on-transparent-background-png.png");
+    background-position:50%;
+    height: 105%;
+    top:60px;
+    overflow: hidden;
+    background-repeat: no-repeat;
+  }
+  

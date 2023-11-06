@@ -1,0 +1,122 @@
+  background-size: cover;
+    background-attachment: fixed; 
+    background-position: center; 
+    overflow:hidden;
+ 
+    background-image: url("https://png.pngtree.com/png-clipart/20220712/ourmid/pngtree-anime-character-blush-cartoon-png-image_5836883.png");
+ 
+background-image: url("https://png.pngtree.com/png-clipart/20220712/ourmid/pngtree-anime-character-blush-cartoon-png-image_5836883.png");
+ 
+left: 50px; /* Posición inicial en el eje X */
+ 
+left: 50px; /* Posición inicial en el eje X */
+ 
+   width: %;
+ 
+    background-image: url("/workspaces/leilanta-traffic-light-with-hooks/src/img/Imagen_27-10-23_a_las_17.47-removebg-preview.png");
+ 
+ 50% 50% 50%;
+ 
+width: 100%;
+ 
+    background-position:50%;
+ 
+100px; /* Ajusta la altura de la imagen en el borde inferior */
+ 
+100px; /* Ajusta la altura de la imagen en el borde inferior */
+ 
+    height: 100px; /* Ajusta la altura de la imagen en el borde inferior */
+ 
+    bottom: 10;
+    left: 0;
+ 
+  /* Coloca la imagen en la parte inferior */
+ 
+ bottom
+ 
+ackground-position: center bottom; /* Coloca la imagen en la parte inferior */
+ 
+background-size: cover; /* Ajusta el tamaño de la imagen para cubrir el área */
+ 
+
+width: 100%;
+height: 100%;
+
+ 
+display:block;
+ 
+z-index: 1;
+ 
+overflow:hidden;
+ 
+position: static;
+ 
+highway
+ 
+
+div.backbackground 
+ 
+div.backbackground 
+ 
+div
+ 
+background-position: center bottom; 
+ 
+display:block;
+ 
+top: 100px;
+ 
+    position: absolute;
+ 
+    top: 0px; /* Adjust the top position */
+ 
+ {
+background-color: aqua;
+}
+ 
+    let a = 1;
+    let b = 3;
+ 
+   return 
+ 
+const
+ 
+name
+ 
+ackground-position-x: right;
+ 
+position: ;
+ 
+img{
+  transform: scaleX(-1);
+}
+ 
+.highway 
+ 
+</div>
+ 
+ background-size: 
+  background-attachment: fixed; 
+ 
+
+
+    background-position: center; 
+    overflow:hidden;
+ 
+    background-attachment: fixed; 
+ 
+    background-size: cover;
+ 
+  background-size: 
+ 
+  overflow:hidden;
+ 
+  background-position: center; 
+ 
+  background-attachment: fixed; 
+ 
+  z-index: 1;
+ 
+  background-size: 
+  background-attachment: fixed; 
+ 
